@@ -11,9 +11,35 @@ export default function App() {
         </header>
         <main>
           <Dictionary />
+          <hr />
         </main>
         <footer className="App-footer">
-          <small>Coded by Breanda</small>
+          <small>
+            Coded by{" "}
+            <a
+              href="https://breanda.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Breanda
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/breandabarnett/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://timely-marzipan-6ff539.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              hosted on Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>
