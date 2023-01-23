@@ -1,14 +1,31 @@
 import React from "react";
+import "./Phonetic.css";
+import AudioPlayer from "react-modern-audio-player";
 
 export default function Phonetic(props) {
-  console.log(props.phonetic);
+  const playList = [
+    {
+      name: "Audio",
+      writer: " ",
+      img: " ",
+      src: props.phonetic.audio,
+      id: 1,
+    },
+  ];
+
   return (
     <div className="Phonetic">
-      <a href={props.phonetic.audio} target="_blank" rel="noreferrer">
-        Listen
-      </a>
-      <br />
-      {props.phonetic.text}
+      <div>
+        <AudioPlayer
+          playList={playList}
+          audioInitialState={{
+            muted: false,
+            volume: 0.7,
+            curPlayId: 1,
+          }}
+        />
+      </div>
+      <span className="text">{props.phonetic.text}</span>
     </div>
   );
 }

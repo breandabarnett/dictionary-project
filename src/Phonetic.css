@@ -1,0 +1,12 @@
+.Phonetic {
+  display: grid;
+  grid-template-columns: 0.25fr 5fr;
+  grid-gap: 25px;
+  margin: 10px 0;
+}
+
+.Phonetic .text {
+  margin-top: 14px;
+  font-size: 18px;
+  opacity: 0.7;
+}
