@@ -1,3 +1,18 @@
+body {
+  background: rgb(255, 248, 233);
+  color: rgb(67, 76, 84);
+}
+
+a {
+  color: rgb(67, 76, 84);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 200, 67);
+}
+
 .App-header {
   margin: 30px 0;
 }

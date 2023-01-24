@@ -19,7 +19,6 @@ export default function Phonetic(props) {
         <AudioPlayer
           playList={playList}
           audioInitialState={{
-            muted: false,
             volume: 0.7,
             curPlayId: 1,
           }}
