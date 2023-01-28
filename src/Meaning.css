@@ -5,7 +5,9 @@
 }
 
 .Meaning .definition {
-  margin-left: 20px;
+  font-size: 17px;
+  margin: 35px 0 0 20px;
+  line-height: 1.25;
 }
 
 .Meaning .example {
@@ -13,6 +15,5 @@
   color: rgb(25, 26, 29);
   opacity: 0.6;
   font-style: italic;
-  margin-top: 8px;
-  margin-left: 20px;
+  margin: 5px 0 0 20px;
 }

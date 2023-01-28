@@ -48,7 +48,7 @@ export default function Dictionary(props) {
     return (
       <div className="Dictionary">
         <section>
-          <h1 className="mb-3 text-center">
+          <h1 className="mb-4 text-center">
             What word do you want to look up?
           </h1>
           <form onSubmit={handleSubmit} className="text-center">
@@ -58,7 +58,7 @@ export default function Dictionary(props) {
               placeholder="Type in a word..."
             />
           </form>
-          <div className="hint">Suggested words: sunset, coffee, flower</div>
+          <div className="hint">Suggested words: sunrise, coffee, flower</div>
         </section>
         <Results results={results} />
         <Photos photos={photos} />
