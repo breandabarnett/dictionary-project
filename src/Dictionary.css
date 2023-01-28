@@ -5,23 +5,23 @@
 }
 
 .Dictionary section {
-  background: white;
-  padding: 30px;
-  margin: 10px;
-  border-radius: 15px;
-  box-shadow: 3px 3px 3px rgba(143, 143, 143, 0.342);
+  background: rgb(255, 255, 255);
+  padding: 45px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
 }
 
 .Dictionary input {
   width: 100%;
   padding: 6px 10px;
   color: rgba(67, 76, 84, 0.801);
-  border: 1px solid rgba(67, 76, 84, 0.705);
+  border: 1px solid rgba(75, 85, 94, 0.548);
   border-radius: 8px;
 }
 
 .Dictionary .hint {
-  font-size: 11px;
+  font-size: 12px;
   margin: 5px 0 0 2px;
-  opacity: 0.7;
+  opacity: 0.6;
 }

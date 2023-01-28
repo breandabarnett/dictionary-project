@@ -1,12 +1,14 @@
 body {
-  background: rgba(158, 175, 216, 0.952);
+  font-family: "Montserrat", sans-serif;
+  background: rgba(193, 211, 250, 0.952);
   color: rgb(25, 26, 29);
+  letter-spacing: -0.25px;
   margin: 40px auto;
 }
 
 a {
   color: rgb(25, 26, 29);
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: none;
 }
 

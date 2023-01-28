@@ -10,10 +10,9 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary defaultKeyword="computer" />
-          <hr />
+          <Dictionary defaultKeyword="book" />
         </main>
-        <footer className="App-footer">
+        <footer className="App-footer mt-5">
           <small>
             Coded by{" "}
             <a

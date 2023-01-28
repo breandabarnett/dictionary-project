@@ -1,5 +1,5 @@
 .Synonyms {
-  margin: 8px 0 22px 20px;
+  margin: 10px 0 22px 20px;
   padding: 0;
 }
 .Synonyms li {
@@ -9,7 +9,7 @@
   padding-right: 12px;
   line-height: 1.5;
   background-color: rgba(84, 212, 122, 0.452);
-  border-radius: 7px;
+  border-radius: 8px;
   margin-right: 8px;
   padding: 3px 8px;
 }
