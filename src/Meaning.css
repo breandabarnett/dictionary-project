@@ -1,12 +1,18 @@
 .Meaning h4 {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: 600;
+}
+
+.Meaning .definition {
+  margin-left: 20px;
 }
 
 .Meaning .example {
   font-size: 14px;
-  color: #70757a;
+  color: rgb(25, 26, 29);
+  opacity: 0.6;
   font-style: italic;
   margin-top: 8px;
+  margin-left: 20px;
 }

@@ -6,7 +6,7 @@ import "./Results.css";
 export default function Results(props) {
   if (props.results) {
     return (
-      <div className="Results mt-4 mb-5">
+      <div className="Results">
         <section>
           <h2>
             <strong>{props.results.word}</strong>
