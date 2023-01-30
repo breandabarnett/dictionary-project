@@ -13,32 +13,35 @@ export default function App() {
           <Dictionary defaultKeyword="book" />
         </main>
         <footer className="App-footer mt-5">
-          <small>
-            Coded by{" "}
+          <div>
+            Coded & Designed by{" "}
             <a
               href="https://breanda.netlify.app/"
+              title="Portfolio Website"
               target="_blank"
               rel="noreferrer"
             >
-              Breanda
+              Breanda Barnett
             </a>{" "}
-            and is{" "}
+            <i class="fa-brands fa-react"></i> Open-sourced on{" "}
             <a
               href="https://github.com/breandabarnett/dictionary-project"
+              title="GitHub Repository"
               target="_blank"
               rel="noreferrer"
             >
-              open-sourced on GitHub
+              GitHub
             </a>{" "}
-            and{" "}
+            <i class="fa-brands fa-react"></i> Icon by{" "}
             <a
-              href="https://timely-marzipan-6ff539.netlify.app/"
+              href="https://www.flaticon.com/free-icons/research"
+              title="Research Icons - Flaticon"
               target="_blank"
               rel="noreferrer"
             >
-              hosted on Netlify
+              Freepik
             </a>
-          </small>
+          </div>
         </footer>
       </div>
     </div>
