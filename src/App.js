@@ -23,7 +23,7 @@ export default function App() {
             >
               Breanda Barnett
             </a>{" "}
-            <i class="fa-brands fa-react"></i> Open-sourced on{" "}
+            <i className="fa-brands fa-react"></i> Open-sourced on{" "}
             <a
               href="https://github.com/breandabarnett/dictionary-project"
               title="GitHub Repository"
@@ -32,7 +32,7 @@ export default function App() {
             >
               GitHub
             </a>{" "}
-            <i class="fa-brands fa-react"></i> Icon by{" "}
+            <i className="fa-brands fa-react"></i> Icon by{" "}
             <a
               href="https://www.flaticon.com/free-icons/research"
               title="Research Icons - Flaticon"
