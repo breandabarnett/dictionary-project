@@ -10,3 +10,10 @@
   font-size: 18px;
   opacity: 0.6;
 }
+
+/*SMALLER DEVICE ADJUSTMENTS*/
+@media (max-width: 540px) {
+  .Phonetic .text {
+    font-size: 16px;
+  }
+}

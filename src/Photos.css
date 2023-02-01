@@ -1,4 +1,11 @@
 .Photos img {
-  padding: 2px;
-  border-radius: 5px;
+  padding: 1.5px;
+  border-radius: 4px;
+}
+
+/*SMALLER DEVICE ADJUSTMENTS*/
+@media (max-width: 540px) {
+  .Photos img {
+    padding: 1px;
+  }
 }

@@ -13,3 +13,10 @@
   margin-right: 8px;
   padding: 3px 8px;
 }
+
+/*SMALLER DEVICE ADJUSTMENTS*/
+@media (max-width: 540px) {
+  .Synonyms li {
+    font-size: 12px;
+  }
+}

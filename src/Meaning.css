@@ -17,3 +17,18 @@
   font-style: italic;
   margin: 5px 0 0 20px;
 }
+
+/*SMALLER DEVICE ADJUSTMENTS*/
+@media (max-width: 540px) {
+  .Meaning h4 {
+    font-size: 20px;
+  }
+
+  .Meaning .definition {
+    font-size: 15px;
+  }
+
+  .Meaning .example {
+    font-size: 12px;
+  }
+}

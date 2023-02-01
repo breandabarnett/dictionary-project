@@ -1,5 +1,5 @@
 .Dictionary h1 {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 1.5;
 }
@@ -24,4 +24,23 @@
   font-size: 12px;
   margin: 5px 0 0 2px;
   opacity: 0.6;
+}
+
+/*SMALLER DEVICE ADJUSTMENTS*/
+@media (max-width: 540px) {
+  .Dictionary h1 {
+    font-size: 22px;
+  }
+
+  .Dictionary section {
+    padding: 40px;
+  }
+
+  .Dictionary input {
+    font-size: 14px;
+  }
+
+  .Dictionary .hint {
+    font-size: 11px;
+  }
 }

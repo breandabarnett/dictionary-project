@@ -14,7 +14,7 @@ export default function App() {
         </main>
         <footer className="App-footer mt-5">
           <div>
-            Coded & Designed by{" "}
+            Coded by{" "}
             <a
               href="https://breanda.netlify.app/"
               title="Portfolio Website"
