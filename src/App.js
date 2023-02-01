@@ -11,7 +11,7 @@ export default function App() {
           <h1 className="mb-4 text-center">react.dictionary</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="reading" />
+          <Dictionary defaultKeyword="book" />
         </main>
         <footer className="App-footer mt-5">
           <div>
@@ -32,16 +32,19 @@ export default function App() {
               rel="noreferrer"
             >
               GitHub
-            </a>{" "}
-            <i className="fa-brands fa-react"></i> Icon by{" "}
-            <a
-              href="https://www.flaticon.com/free-icons/research"
-              title="Research Icons - Flaticon"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Freepik
             </a>
+            <p>
+              {" "}
+              Icon by{" "}
+              <a
+                href="https://www.flaticon.com/free-icons/research"
+                title="Research Icons - Flaticon"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Freepik
+              </a>
+            </p>
           </div>
         </footer>
       </div>
