@@ -23,7 +23,15 @@ a:hover {
 }
 
 .App-header {
-  margin: 20px 0;
+  margin: 15px 0;
+}
+
+.App h1 {
+  color: rgba(25, 26, 29, 0.9);
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
 }
 
 .App-logo {
@@ -45,6 +53,10 @@ a:hover {
 @media (max-width: 540px) {
   .App-logo {
     max-width: 90px;
+  }
+
+  .App h1 {
+    font-size: 26px;
   }
 
   .App-footer {

@@ -48,14 +48,12 @@ export default function Dictionary(props) {
     return (
       <div className="Dictionary">
         <section>
-          <h1 className="mb-4 text-center">
-            What word do you want to look up?
-          </h1>
           <form onSubmit={handleSubmit} className="text-center">
             <input
               type="search"
               onChange={handleKeywordChange}
-              placeholder="Type in a word..."
+              placeholder="Search for a word..."
+              autoFocus
             />
           </form>
           <div className="hint">Suggested words: sunrise, coffee, flower</div>
