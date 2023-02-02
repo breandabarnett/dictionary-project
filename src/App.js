@@ -13,7 +13,7 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="book" />
         </main>
-        <footer className="App-footer mt-5">
+        <footer className="App-footer mt-4 mb-5">
           <div>
             Coded by{" "}
             <a
