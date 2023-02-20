@@ -1,3 +1,18 @@
+# 📚 React.Dictionary - https://timely-marzipan-6ff539.netlify.app/
+<p>
+  Enhance your vocabulary with a mobile-friendly Dictionary web application. Integrated with Dictionary API, Pexels API, and a minimalist design, it comes together for a seamless word search experience. Find definitions, phonetics, photos, and more. Coded using React.js.
+</p>
+<p>
+  This was a 
+  <a href="https://www.shecodes.io/graduates/39418-breanda-barnett"> certification </a> project for the SheCodes Advanced React Workshop.
+</p>
+<br />
+<br />
+<br />
+<hr />
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
