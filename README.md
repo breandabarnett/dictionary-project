@@ -1,4 +1,5 @@
-# 📚 React.Dictionary - https://timely-marzipan-6ff539.netlify.app/
+# 📚 React.Dictionary
+
 <p>
   Enhance your vocabulary with a mobile-friendly Dictionary web application. Integrated with Dictionary API, Pexels API, and a minimalist design, it comes together for a seamless word search experience. Find definitions, phonetics, photos, and more. Coded using React.js.
 </p>
@@ -6,6 +7,7 @@
   This was a 
   <a href="https://www.shecodes.io/graduates/39418-breanda-barnett"> certification </a> project for the SheCodes Advanced React Workshop.
 </p>
+<h4>🔗 https://timely-marzipan-6ff539.netlify.app/</h4>
 <br />
 <br />
 <br />
