@@ -3,7 +3,8 @@ Enhance your vocabulary with a mobile-friendly Dictionary web application. Integ
 
 <h4>🔗 https://timely-marzipan-6ff539.netlify.app/</h4>
 
-<img src="" alt="live site preview gif" />
+<img src="https://user-images.githubusercontent.com/104718008/222884570-31203b18-5ef8-43cb-b484-b0e7fe8b9aea.gif" alt="live site preview gif" />
+
 
 
 <br />
